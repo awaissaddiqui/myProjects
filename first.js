@@ -1,4 +1,4 @@
- //condition
+//condition
 //  const marks = 33;
 //  if(marks <  30){
 //      console.log('your are fail')
@@ -23,14 +23,14 @@
 //         break;
 //         default;
 //         console.log('number is positive');
-    // case 10;
-    // console.log ('yes it is 10');
-    // break;
-    // case 20:
-    //     console.log('yes it is 20');
-    //     break;
-    //     default;
-    //     console.log('no it is not 10 or 20');
+// case 10;
+// console.log ('yes it is 10');
+// break;
+// case 20:
+//     console.log('yes it is 20');
+//     break;
+//     default;
+//     console.log('no it is not 10 or 20');
 
 // const firstName = 'Awais';
 // const lastName = 'Khan';
@@ -43,7 +43,7 @@
 // const list = [23,3,5,3,2,4,6,76]
 // for (let i=0; i<list.length; i++){
 //     console.log(list[i]);
-    
+
 // }
 // let j = 0;
 // while(j <list.length){
@@ -69,13 +69,12 @@ object is acctullay a variable in which at time one or more value can store */
 //          tehsil: 'mardan '
 //      }
 //  }
- 
+
 //   for (let i = 0; i < data.lenght; i++){
 //      if(data[i].ispass==false){
 //          console.log(data[i].friends);
 //      }
 //  }
-
 
 //  const data = {
 //      marks:45,
@@ -92,7 +91,6 @@ object is acctullay a variable in which at time one or more value can store */
 
 /*Aray of objects by data of multiple students */
 
-
 // const students =  [
 //     {
 //        marks : 45,
@@ -107,7 +105,7 @@ object is acctullay a variable in which at time one or more value can store */
 //        }
 //    },
 //    {
-   
+
 //        marks:55,
 //        name:'khsss',
 //        gpa:2.5,
@@ -134,21 +132,39 @@ object is acctullay a variable in which at time one or more value can store */
 //   ]
 //    console.log(students[1].friends[2]);
 
+/*Data Serializatuion  */
+// multiple type of data can store at a time ......JSON
+// CSV[comma-separated values]  =one header is separated by comma  and data is separated by comma
+// double quotes are used to separate data
+//new line are considered
+//XML stand for eXtensible Markup Language
+//<xml>
+//<name>Awais</name>
+//<marks>45</marks>
+//<s.no>3</s.no>
+//</xml>
+//JSON stands for JavaScript Object Notation
+/*XAML */
+// XAML stand for eXtensible Application Markup Language
+//Why JSON is most popular?
 
-                                 /*Data Serializatuion  */
-           // multiple type of data can store at a time ......JSON
-          // CSV[comma-separated values]  =one header is separated by comma  and data is separated by comma
-          // double quotes are used to separate data
-          //new line are considered 
-          //XML stand for eXtensible Markup Language
-          //<xml>
-          //<name>Awais</name>
-          //<marks>45</marks>
-          //<s.no>3</s.no>
-          //</xml>
 
-            //JSON stands for JavaScript Object Notation
+const data = {
+    products: [
+        {
+        name: 'Laptop',
+        price: '$500',
+       is,
+        },
+        {
+        name: '',
+        price: '$500',
+       is,
+        },
+        {
+        name: 'Laptop',
+        price: '$500',
+       is,
+        },
+        
 
-            /*XAML */
-           // XAML stand for eXtensible Application Markup Language
-           //Why JSON is most popular?
