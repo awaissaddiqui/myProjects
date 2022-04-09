@@ -44,18 +44,16 @@ for (let i = 0; i < data.length; i++) {
 /*New work of Javascript*/
 
 const marks = [45, 33, 20, 77, 80, 99, 12, 34, 56, 78,];
-
+const add = [33, 44,]
 // const sum = marks
 //     .sort((a,b) => a - b)
 //     .filter((n) => n >50)
 //     .map((a) => a + 10)
 //     .reduce((a,b) => a + b, 0);
    
-    const l = marks.indexOf(78)
-    // if(l == -1){
-    //     marks.push(100)
-    // }
-    console.log(l)
-
-  //  console.log(sum)
-    
+   // const l = marks.indexOf(79)
+ // ( marks.indexOf(45) == -1) ? marks.push(100) : marks.pop();
+  
+   //  console.log(sum)
+    const full = marks.concat(add);  //concat mean to add element of one aray to other with ends.
+    console.log(full)
