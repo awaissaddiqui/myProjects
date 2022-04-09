@@ -17,7 +17,7 @@ const data = [
     }
 ];
 
-for(let i = 0; i< data.length; i++) {
+/*for(let i = 0; i< data.length; i++) {
     console.log(data[i].name)      //nodemon (file name)
 }
 var sum = 0
@@ -26,8 +26,9 @@ for (let i = 0; i < data.length; i++) {
         sum = sum+data[i].price
         console.log(data[i].price)
     }
-    console.log(sum)
-    
+    console.log(sum)*/
+                                        //par
+                                        for Application Programming Interface
 }
 var sale;
 for (let i = 0; i < data.length; i++) {
@@ -37,3 +38,6 @@ for (let i = 0; i < data.length; i++) {
     }
 }
     console.log(data[i].price)
+
+
+    
