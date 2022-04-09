@@ -51,7 +51,7 @@ const marks = [45, 33, 20, 77, 80, 99, 12, 34, 56, 78,];
 //     .map((a) => a + 10)
 //     .reduce((a,b) => a + b, 0);
    
-    const l = marks.indexOf(20)
+    const l = marks.indexOf(78)
     // if(l == -1){
     //     marks.push(100)
     // }
