@@ -112,6 +112,10 @@ const l2 = str.replace("new", "old");
 //  const country = str.slice(str.indexOf("key"),str.indexOf(key) + key.length)
 //  console.log(country)
 
-const string = "1, Faizan, mardan, 3.5, 6th, uet"
+// const string = "1, Faizan, mardan, 3.5, 6th, uet"
 
-const [id, name, address, gpa, semester, institue] = string.split(",") ;
+// const [id, name, address, gpa, semester, institue] = string.split(",") ;
+
+// const name = "Faizan"
+// const trim = name1.trim();
+// console.log(trim)
